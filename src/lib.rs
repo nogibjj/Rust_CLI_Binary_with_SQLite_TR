@@ -1,8 +1,8 @@
 use reqwest::blocking::Client;
 use rusqlite::{params, Connection, Result};
-use std::{fs, i32};
 use std::fs::OpenOptions;
 use std::io::Write;
+use std::{fs, i32};
 
 const LOG_FILE: &str = "query_log.md";
 
@@ -36,7 +36,7 @@ pub fn transform_load(dataset: &str) -> Result<String> {
     conn.execute("DROP TABLE IF EXISTS AlcoholDB", [])?;
 
     conn.execute(
-       "CREATE TABLE AlcoholDB (
+        "CREATE TABLE AlcoholDB (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
             country TEXT, 
             beer_servings INTEGER,
@@ -44,7 +44,7 @@ pub fn transform_load(dataset: &str) -> Result<String> {
             wine_servings INTEGER,
             total_pure_alcohol
        )",
-       [],
+        [],
     )?;
 
     let mut rdr = csv::Reader::from_path(dataset).expect("Failed to read dataset");
@@ -65,9 +65,7 @@ pub fn transform_load(dataset: &str) -> Result<String> {
     for result in rdr.records() {
         match result {
             Ok(record) => {
-                stmt.execute(&[
-                    &record[0], &record[1], &record[2], &record[3], &record[4],
-                ])?;
+                stmt.execute(&[&record[0], &record[1], &record[2], &record[3], &record[4]])?;
             }
             Err(err) => {
                 eprintln!("Error reading CSV record: {:?}", err);
@@ -102,12 +100,17 @@ pub fn query(query: &str) -> Result<()> {
                     beer_serving,
                     spirit_servings,
                     wine_servings,
-                    total_pure_alcohol
+                    total_pure_alcohol,
                 )) => {
                     println!(
                         "Result: id={}, country={}, beer_serving={}, 
                          spirit_serving={}, wine_serving={}, total_pure_alcohol={}",
-                        id, country, beer_serving, spirit_servings, wine_servings, total_pure_alcohol
+                        id,
+                        country,
+                        beer_serving,
+                        spirit_servings,
+                        wine_servings,
+                        total_pure_alcohol
                     );
                 }
                 Err(e) => eprintln!("Error in row: {:?}", e),
