@@ -1,5 +1,6 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# Individual Project 2: Rust CLI Binary with SQLite Tianji Rao
+[![Rust CI/CD Pipeline](https://github.com/nogibjj/Rust_CLI_Binary_with_SQLite_TR/actions/workflows/ci.yml/badge.svg)](https://github.com/nogibjj/Rust_CLI_Binary_with_SQLite_TR/actions/workflows/ci.yml)
+
 
 ## References
 
