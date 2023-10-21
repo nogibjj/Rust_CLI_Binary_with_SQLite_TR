@@ -1,121 +1,194 @@
-server,seconds_before_next_point,day,opponent,game_score,set,game
-Nicolas Almagro,22,28-May-15,Rafael Nadal,15-30,1,0-0
-Nicolas Almagro,19,28-May-15,Rafael Nadal,15-40,1,0-0
-Nicolas Almagro,23,28-May-15,Rafael Nadal,30-40,1,0-0
-Nicolas Almagro,24,28-May-15,Rafael Nadal,Deuce,1,0-0
-Nicolas Almagro,19,28-May-15,Rafael Nadal,Ad-in,1,0-0
-Pablo Andujar,34,28-May-15,Philipp Kohlschreiber,40-30,5,2-4
-Bernard Tomic,21,28-May-15,Thanasi Kokkinakis,30-40,3,0-1
-Bernard Tomic,17,28-May-15,Thanasi Kokkinakis,Deuce,3,0-1
-Bernard Tomic,17,28-May-15,Thanasi Kokkinakis,Ad-in,3,0-1
-Rafael Nadal,34,28-May-15,Nicolas Almagro,15-30,1,0-1
-Rafael Nadal,29,28-May-15,Nicolas Almagro,30-30,1,0-1
-Rafael Nadal,33,28-May-15,Nicolas Almagro,30-40,1,0-1
-Rafael Nadal,23,28-May-15,Nicolas Almagro,Deuce,1,0-1
-Rafael Nadal,27,28-May-15,Nicolas Almagro,Ad-in,1,0-1
-Pablo Andujar,26,28-May-15,Philipp Kohlschreiber,15-30,5,4-4
-Pablo Andujar,24,28-May-15,Philipp Kohlschreiber,30-30,5,4-4
-Pablo Andujar,32,28-May-15,Philipp Kohlschreiber,40-30,5,4-4
-Bernard Tomic,21,28-May-15,Thanasi Kokkinakis,15-40,3,1-2
-Bernard Tomic,15,28-May-15,Thanasi Kokkinakis,30-40,3,1-2
-Bernard Tomic,18,28-May-15,Thanasi Kokkinakis,Deuce,3,1-2
-Bernard Tomic,37,28-May-15,Thanasi Kokkinakis,Ad-out,3,1-2
-Pablo Andujar,38,28-May-15,Philipp Kohlschreiber,Deuce,5,4-4
-Pablo Andujar,31,28-May-15,Philipp Kohlschreiber,Ad-in,5,4-4
-Nicolas Almagro,22,28-May-15,Rafael Nadal,15-0,1,1-3
-Nicolas Almagro,24,28-May-15,Rafael Nadal,30-0,1,1-3
-Nicolas Almagro,22,28-May-15,Rafael Nadal,40-0,1,1-3
-Nicolas Almagro,20,28-May-15,Rafael Nadal,30-40,2,3-5
-Andrey Kuznetsov,16,28-May-15,Jurgen Melzer,15-0,3,2-2
-Andrey Kuznetsov,19,28-May-15,Jurgen Melzer,30-0,3,2-2
-Andrey Kuznetsov,20,28-May-15,Jurgen Melzer,30-15,3,2-2
-Andrey Kuznetsov,15,28-May-15,Jurgen Melzer,40-15,3,2-2
-Rafael Nadal,27,28-May-15,Nicolas Almagro,40-0,3,5-1
-Andy Murray,29,28-May-15,Joao Sousa,30-0,1,2-1
-Andy Murray,20,28-May-15,Joao Sousa,40-0,1,2-1
-Borna Coric,28,28-May-15,Tommy Robredo,Ad-out,1,5-4
-Borna Coric,25,28-May-15,Tommy Robredo,Deuce,1,5-4
-Borna Coric,29,28-May-15,Tommy Robredo,Ad-out,1,5-4
-Andy Murray,18,28-May-15,Joao Sousa,40-0,3,0-1
-Andy Murray,20,28-May-15,Joao Sousa,40-15,3,0-1
-Andy Murray,23,28-May-15,Joao Sousa,40-30,3,0-1
-Andy Murray,22,28-May-15,Joao Sousa,Deuce,3,0-1
-Novak Djokovic,16,28-May-15,Gilles Muller,15-0,3,2-1
-Novak Djokovic,13,28-May-15,Gilles Muller,30-0,3,2-1
-Novak Djokovic,14,28-May-15,Gilles Muller,40-0,3,2-1
-Novak Djokovic,21,28-May-15,Gilles Muller,40-15,3,2-1
-Borna Coric,36,28-May-15,Tommy Robredo,0-30,3,2-2
-Borna Coric,21,28-May-15,Tommy Robredo,15-30,3,2-2
-Borna Coric,22,28-May-15,Tommy Robredo,30-30,3,2-2
-John Isner,27,28-May-15,Jeremy Chardy,40-30,2,4-3
-Andy Murray,30,28-May-15,Joao Sousa,30-40,3,1-2
-Andy Murray,24,28-May-15,Joao Sousa,Deuce,3,1-2
-Andy Murray,30,28-May-15,Joao Sousa,Ad-out,3,1-2
-Andy Murray,21,28-May-15,Joao Sousa,Deuce,3,1-2
-John Isner,22,28-May-15,Jeremy Chardy,40-0,2,5-4
-Borna Coric,26,28-May-15,Tommy Robredo,0-30,3,4-2
-Carlos Berlocq,34,28-May-15,Richard Gasquet,15-30,2,0-1
-Carlos Berlocq,28,28-May-15,Richard Gasquet,15-40,2,0-1
-Daniel Gimeno Traver,15,28-May-15,David Ferrer,40-0,2,1-3
-Daniel Gimeno Traver,17,28-May-15,David Ferrer,0-15,2,2-4
-Daniel Gimeno Traver,26,28-May-15,David Ferrer,0-30,2,2-4
-Daniel Gimeno Traver,27,28-May-15,David Ferrer,15-30,2,2-4
-Daniel Gimeno Traver,27,28-May-15,David Ferrer,15-40,2,2-4
-Daniel Gimeno Traver,15,28-May-15,David Ferrer,30-40,2,2-4
-Carlos Berlocq,20,28-May-15,Richard Gasquet,15-15,3,0-0
-Carlos Berlocq,30,28-May-15,Richard Gasquet,15-30,3,0-0
-Carlos Berlocq,28,28-May-15,Richard Gasquet,15-40,3,0-0
-Carlos Berlocq,28,29-May-15,Richard Gasquet,30-30,5,0-3
-Carlos Berlocq,31,29-May-15,Richard Gasquet,40-30,5,0-3
-Lukas Rosol,15,29-May-15,Teymuraz Gabashvili,15-0,3,3-5
-Lukas Rosol,16,29-May-15,Teymuraz Gabashvili,15-15,3,3-5
-Lukas Rosol,15,29-May-15,Teymuraz Gabashvili,30-15,3,3-5
-Lukas Rosol,22,29-May-15,Teymuraz Gabashvili,30-30,3,3-5
-Lukas Rosol,26,29-May-15,Teymuraz Gabashvili,30-40,3,3-5
-Lukas Rosol,13,29-May-15,Teymuraz Gabashvili,Deuce,3,3-5
-Lukas Rosol,14,29-May-15,Teymuraz Gabashvili,Ad-in,3,3-5
-Carlos Berlocq,32,29-May-15,Richard Gasquet,15-40,5,1-4
-Roger Federer,15,29-May-15,Damir Dzumhur,15-15,2,5-2
-Roger Federer,15,29-May-15,Damir Dzumhur,30-15,2,5-2
-Roger Federer,14,29-May-15,Damir Dzumhur,30-30,2,5-2
-Roger Federer,22,29-May-15,Damir Dzumhur,30-40,2,5-2
-Roger Federer,17,29-May-15,Damir Dzumhur,Deuce,2,5-2
-Roger Federer,13,29-May-15,Damir Dzumhur,Ad-in,2,5-2
-Roger Federer,17,29-May-15,Damir Dzumhur,Deuce,2,5-2
-Roger Federer,18,29-May-15,Damir Dzumhur,Ad-out,2,5-2
-Roger Federer,15,29-May-15,Damir Dzumhur,0-15,3,3-1
-Roger Federer,15,29-May-15,Damir Dzumhur,15-15,3,3-1
-Roger Federer,18,29-May-15,Damir Dzumhur,15-30,3,3-1
-Roger Federer,17,29-May-15,Damir Dzumhur,30-30,3,3-1
-Roger Federer,12,29-May-15,Damir Dzumhur,40-30,3,3-1
-Roger Federer,13,29-May-15,Damir Dzumhur,30-15,3,4-2
-Roger Federer,16,29-May-15,Damir Dzumhur,40-15,3,4-2
-Roger Federer,23,29-May-15,Damir Dzumhur,40-30,3,4-2
-Benoit Paire,14,29-May-15,Tomas Berdych,30-0,1,0-5
-Benoit Paire,12,29-May-15,Tomas Berdych,30-15,1,0-5
-Benoit Paire,11,29-May-15,Tomas Berdych,40-15,1,0-5
-Benoit Paire,19,29-May-15,Tomas Berdych,40-30,1,0-5
-Benoit Paire,12,29-May-15,Tomas Berdych,Deuce,1,0-5
-Benoit Paire,16,29-May-15,Tomas Berdych,Ad-in,1,0-5
-Benoit Paire,12,29-May-15,Tomas Berdych,30-15,2,0-0
-Benoit Paire,16,29-May-15,Tomas Berdych,40-15,2,0-0
-Benoit Paire,17,29-May-15,Tomas Berdych,40-30,2,0-0
-Nick Kyrgios,9,30-May-15,Andy Murray,0-15,3,2-2
-Nick Kyrgios,16,30-May-15,Andy Murray,15-15,3,2-2
-Nick Kyrgios,15,30-May-15,Andy Murray,15-30,3,2-2
-Nick Kyrgios,22,30-May-15,Andy Murray,30-30,3,2-2
-Nick Kyrgios,19,30-May-15,Andy Murray,40-30,3,2-2
-Nick Kyrgios,14,30-May-15,Andy Murray,0-40,3,3-3
-Nick Kyrgios,23,30-May-15,Andy Murray,15-40,3,3-3
-Nick Kyrgios,11,30-May-15,Andy Murray,15-15,3,3-3
-Nick Kyrgios,9,30-May-15,Andy Murray,15-30,3,3-3
-Nick Kyrgios,14,30-May-15,Andy Murray,30-30,3,3-3
-Nick Kyrgios,11,30-May-15,Andy Murray,40-30,3,3-3
-Nick Kyrgios,9,30-May-15,Andy Murray,Deuce,3,3-3
-Nick Kyrgios,14,30-May-15,Andy Murray,Ad-in,3,3-3
-Nick Kyrgios,13,30-May-15,Andy Murray,Deuce,3,3-3
-Nick Kyrgios,13,30-May-15,Andy Murray,Ad-out,3,3-3
-Nick Kyrgios,9,30-May-15,Andy Murray,Deuce,3,3-3
-Nick Kyrgios,12,30-May-15,Andy Murray,Ad-in,3,3-3
-Nick Kyrgios,24,30-May-15,Andy Murray,Deuce,3,3-3
-Nick Kyrgios,12,30-May-15,Andy Murray,Ad-out,3,3-3
+country,beer_servings,spirit_servings,wine_servings,total_litres_of_pure_alcohol
+Afghanistan,0,0,0,0.0
+Albania,89,132,54,4.9
+Algeria,25,0,14,0.7
+Andorra,245,138,312,12.4
+Angola,217,57,45,5.9
+Antigua & Barbuda,102,128,45,4.9
+Argentina,193,25,221,8.3
+Armenia,21,179,11,3.8
+Australia,261,72,212,10.4
+Austria,279,75,191,9.7
+Azerbaijan,21,46,5,1.3
+Bahamas,122,176,51,6.3
+Bahrain,42,63,7,2.0
+Bangladesh,0,0,0,0.0
+Barbados,143,173,36,6.3
+Belarus,142,373,42,14.4
+Belgium,295,84,212,10.5
+Belize,263,114,8,6.8
+Benin,34,4,13,1.1
+Bhutan,23,0,0,0.4
+Bolivia,167,41,8,3.8
+Bosnia-Herzegovina,76,173,8,4.6
+Botswana,173,35,35,5.4
+Brazil,245,145,16,7.2
+Brunei,31,2,1,0.6
+Bulgaria,231,252,94,10.3
+Burkina Faso,25,7,7,4.3
+Burundi,88,0,0,6.3
+Cote d'Ivoire,37,1,7,4.0
+Cabo Verde,144,56,16,4.0
+Cambodia,57,65,1,2.2
+Cameroon,147,1,4,5.8
+Canada,240,122,100,8.2
+Central African Republic,17,2,1,1.8
+Chad,15,1,1,0.4
+Chile,130,124,172,7.6
+China,79,192,8,5.0
+Colombia,159,76,3,4.2
+Comoros,1,3,1,0.1
+Congo,76,1,9,1.7
+Cook Islands,0,254,74,5.9
+Costa Rica,149,87,11,4.4
+Croatia,230,87,254,10.2
+Cuba,93,137,5,4.2
+Cyprus,192,154,113,8.2
+Czech Republic,361,170,134,11.8
+North Korea,0,0,0,0.0
+DR Congo,32,3,1,2.3
+Denmark,224,81,278,10.4
+Djibouti,15,44,3,1.1
+Dominica,52,286,26,6.6
+Dominican Republic,193,147,9,6.2
+Ecuador,162,74,3,4.2
+Egypt,6,4,1,0.2
+El Salvador,52,69,2,2.2
+Equatorial Guinea,92,0,233,5.8
+Eritrea,18,0,0,0.5
+Estonia,224,194,59,9.5
+Ethiopia,20,3,0,0.7
+Fiji,77,35,1,2.0
+Finland,263,133,97,10.0
+France,127,151,370,11.8
+Gabon,347,98,59,8.9
+Gambia,8,0,1,2.4
+Georgia,52,100,149,5.4
+Germany,346,117,175,11.3
+Ghana,31,3,10,1.8
+Greece,133,112,218,8.3
+Grenada,199,438,28,11.9
+Guatemala,53,69,2,2.2
+Guinea,9,0,2,0.2
+Guinea-Bissau,28,31,21,2.5
+Guyana,93,302,1,7.1
+Haiti,1,326,1,5.9
+Honduras,69,98,2,3.0
+Hungary,234,215,185,11.3
+Iceland,233,61,78,6.6
+India,9,114,0,2.2
+Indonesia,5,1,0,0.1
+Iran,0,0,0,0.0
+Iraq,9,3,0,0.2
+Ireland,313,118,165,11.4
+Israel,63,69,9,2.5
+Italy,85,42,237,6.5
+Jamaica,82,97,9,3.4
+Japan,77,202,16,7.0
+Jordan,6,21,1,0.5
+Kazakhstan,124,246,12,6.8
+Kenya,58,22,2,1.8
+Kiribati,21,34,1,1.0
+Kuwait,0,0,0,0.0
+Kyrgyzstan,31,97,6,2.4
+Laos,62,0,123,6.2
+Latvia,281,216,62,10.5
+Lebanon,20,55,31,1.9
+Lesotho,82,29,0,2.8
+Liberia,19,152,2,3.1
+Libya,0,0,0,0.0
+Lithuania,343,244,56,12.9
+Luxembourg,236,133,271,11.4
+Madagascar,26,15,4,0.8
+Malawi,8,11,1,1.5
+Malaysia,13,4,0,0.3
+Maldives,0,0,0,0.0
+Mali,5,1,1,0.6
+Malta,149,100,120,6.6
+Marshall Islands,0,0,0,0.0
+Mauritania,0,0,0,0.0
+Mauritius,98,31,18,2.6
+Mexico,238,68,5,5.5
+Micronesia,62,50,18,2.3
+Monaco,0,0,0,0.0
+Mongolia,77,189,8,4.9
+Montenegro,31,114,128,4.9
+Morocco,12,6,10,0.5
+Mozambique,47,18,5,1.3
+Myanmar,5,1,0,0.1
+Namibia,376,3,1,6.8
+Nauru,49,0,8,1.0
+Nepal,5,6,0,0.2
+Netherlands,251,88,190,9.4
+New Zealand,203,79,175,9.3
+Nicaragua,78,118,1,3.5
+Niger,3,2,1,0.1
+Nigeria,42,5,2,9.1
+Niue,188,200,7,7.0
+Norway,169,71,129,6.7
+Oman,22,16,1,0.7
+Pakistan,0,0,0,0.0
+Palau,306,63,23,6.9
+Panama,285,104,18,7.2
+Papua New Guinea,44,39,1,1.5
+Paraguay,213,117,74,7.3
+Peru,163,160,21,6.1
+Philippines,71,186,1,4.6
+Poland,343,215,56,10.9
+Portugal,194,67,339,11.0
+Qatar,1,42,7,0.9
+South Korea,140,16,9,9.8
+Moldova,109,226,18,6.3
+Romania,297,122,167,10.4
+Russian Federation,247,326,73,11.5
+Rwanda,43,2,0,6.8
+St. Kitts & Nevis,194,205,32,7.7
+St. Lucia,171,315,71,10.1
+St. Vincent & the Grenadines,120,221,11,6.3
+Samoa,105,18,24,2.6
+San Marino,0,0,0,0.0
+Sao Tome & Principe,56,38,140,4.2
+Saudi Arabia,0,5,0,0.1
+Senegal,9,1,7,0.3
+Serbia,283,131,127,9.6
+Seychelles,157,25,51,4.1
+Sierra Leone,25,3,2,6.7
+Singapore,60,12,11,1.5
+Slovakia,196,293,116,11.4
+Slovenia,270,51,276,10.6
+Solomon Islands,56,11,1,1.2
+Somalia,0,0,0,0.0
+South Africa,225,76,81,8.2
+Spain,284,157,112,10.0
+Sri Lanka,16,104,0,2.2
+Sudan,8,13,0,1.7
+Suriname,128,178,7,5.6
+Swaziland,90,2,2,4.7
+Sweden,152,60,186,7.2
+Switzerland,185,100,280,10.2
+Syria,5,35,16,1.0
+Tajikistan,2,15,0,0.3
+Thailand,99,258,1,6.4
+Macedonia,106,27,86,3.9
+Timor-Leste,1,1,4,0.1
+Togo,36,2,19,1.3
+Tonga,36,21,5,1.1
+Trinidad & Tobago,197,156,7,6.4
+Tunisia,51,3,20,1.3
+Turkey,51,22,7,1.4
+Turkmenistan,19,71,32,2.2
+Tuvalu,6,41,9,1.0
+Uganda,45,9,0,8.3
+Ukraine,206,237,45,8.9
+United Arab Emirates,16,135,5,2.8
+United Kingdom,219,126,195,10.4
+Tanzania,36,6,1,5.7
+USA,249,158,84,8.7
+Uruguay,115,35,220,6.6
+Uzbekistan,25,101,8,2.4
+Vanuatu,21,18,11,0.9
+Venezuela,333,100,3,7.7
+Vietnam,111,2,1,2.0
+Yemen,6,0,0,0.1
+Zambia,32,19,4,2.5
+Zimbabwe,64,18,4,4.7

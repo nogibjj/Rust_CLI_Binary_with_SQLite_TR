@@ -6,8 +6,8 @@
 In this project, we want to conduct data extraction, transformation, and loading with `Rust`. These operations are on a dataset and a SQLite database. A Rust CLT is built for realizing this objective. Three functions are saved in the src, each of them are used in main.rs for CTL. Using the general query function, we can further run quer
 apply CRUD actions.
 
-## Video
-
+## Demo Video
+![Demo Video](https://www.youtube.com/watch?v=2pkIDLSfWyY)
 
 ## Workflow
 ![Workflow](workflow.png)
